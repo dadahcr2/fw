@@ -63,6 +63,7 @@ Oxford            |              0    |            0       |          1
 Pass Da B      |               0   |             0      |           1
 
 <br>
+
 | **Top 5 Highest Points** | Points  |  Week | 
 | -- | -- | -- |
 | 🏆  ***Linge*** | 804p | Week 1 |
