@@ -26,14 +26,17 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 Compete daily in the time-trials. Points awarded based on position and added up each week  
 {: style="text-align: center;"}
 
-May 20  
-:--:
-**Monster Truck-Dirty Rally-FingerWoods**
+May 20  |  
+:--:  | --  
+**Monster Truck-Dirty Rally-FingerWoods**|
 
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966705847894036/angry_bill.png)
 {: style="text-align: center;"}
+<br>  
 
-<br> 
+***
+
+<br>  
 ## Results
 {: style="text-align: center;"}
 ![](https://media.discordapp.net/attachments/815005702245449728/843214499354902549/unknown.png)  
@@ -108,7 +111,7 @@ Larrikan | <https://playhcr.com/invite?id=1z5QrN>
 Retep | <https://playhcr.com/invite?id=aEzWqm>
 Serendipity | <https://playhcr.com/invite?id=BbZxee>
 
-If you are not on the list and should be, let me know....  
+If you are not on the list and should be, let me know...  
 
 
 # [![](https://cdn.discordapp.com/attachments/831966505812885505/831966772256047158/event-ui-bg.png)](#_1)
