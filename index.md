@@ -1,4 +1,4 @@
-#  [![FRIENDLY WARS](https://cdn.discordapp.com/attachments/830767960008294442/838384347660812298/FW-welcome-banner.png)](#_2)  
+#  [![FRIENDLY WARS](https://cdn.discordapp.com/attachments/806343355264401478/845189569079279626/image.png)](#_2)  
 {: style="text-align: center;"}
 ### **To compete in the friendly wars daily, make friends with the two moderators below**
 {: style="text-align: center;"}
@@ -17,11 +17,11 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 (and if your discord name is different to your in-game name, please post it in **#your-game-nik**)
 {: style="text-align: center;"}
 
-\ 
+<br></br> 
 
 ***
 
-\ 
+` `   
 
 ## Daily Time Trial
 {: style="text-align: center;"}
@@ -37,14 +37,14 @@ Today's vehicle and track | Date
 
 ***
 
-\ 
+\   
 
 ## Results
 {: style="text-align: center;"}
 ![](https://media.discordapp.net/attachments/815005702245449728/843214499354902549/unknown.png)  
 {: style="text-align: center;"}
 
-\ 
+\  
 
 ![Hall of Fame](https://cdn.discordapp.com/attachments/806343355264401478/835663043676471306/image0.png)
 {: style="text-align: center;"}
