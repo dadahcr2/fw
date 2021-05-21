@@ -17,7 +17,11 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 (and if your discord name is different to your in-game name, please post it in **#your-game-nik**)
 {: style="text-align: center;"}
 
+\ 
+
 ***
+
+\ 
 
 ## Daily Time Trial
 {: style="text-align: center;"}
@@ -28,17 +32,19 @@ Today's vehicle and track | Date
 :--: | :--:
 **Monster Truck-Dirty Rally-FingerWoods** | May 20
 
-***
-
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966705847894036/angry_bill.png)
 {: style="text-align: center;"}
+
+***
+
+\ 
 
 ## Results
 {: style="text-align: center;"}
 ![](https://media.discordapp.net/attachments/815005702245449728/843214499354902549/unknown.png)  
 {: style="text-align: center;"}
 
-***
+\ 
 
 ![Hall of Fame](https://cdn.discordapp.com/attachments/806343355264401478/835663043676471306/image0.png)
 {: style="text-align: center;"}
@@ -52,7 +58,7 @@ Folo                |               1       |           1        |         1
 Coldity       |                   0    |            2       |          1
 Serendipity       |           1      |           0      |           1
 Linge             |                1     |            0     |           0
-Alex             |                 0      |           1     |            1
+Alpex             |                 0      |           1     |            1
 Getzata             |                0     |            1     |           1
 Jack           |                    0     |           1        |         0
 x Spectre x | 0 | 1 | 0 
@@ -67,10 +73,13 @@ Pass Da B      |               0   |             0      |           1
 | 🏅 ***Folo*** | 798p | Week 4 |
 | 🎖️ ***Dada***  |797p | Week 6 |
 
-***
+\ 
+
 
 ![](https://media.discordapp.net/attachments/806343355264401478/838752579680600064/image.png)  
 {: style="text-align: center;"}
+
+\ 
 
 ## Weekly Friendly Adventure Contest
 {: style="text-align: center;"}
@@ -81,6 +90,8 @@ if competing, post your distances in the ***#screenshot-submissions*** channel o
 {: style="text-align: center;"}
 
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966759534854154/desertX.png)
+
+\ 
 
 ## Make some friends
 
@@ -101,6 +112,9 @@ Retep | <https://playhcr.com/invite?id=aEzWqm>
 Serendipity | <https://playhcr.com/invite?id=BbZxee>
 
 If you are not on the list and should be, let me know....  
+
+\ 
+
 # [![](https://cdn.discordapp.com/attachments/831966505812885505/831966772256047158/event-ui-bg.png)](#_1)
 {: style="text-align: center;"}
 
