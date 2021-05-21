@@ -26,7 +26,7 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 
 Today's vehicle and track | Date
 :--: | :--:
-***Monster Truck-Dirty Rally-FingerWoods*** | May 20
+**Monster Truck-Dirty Rally-FingerWoods** | May 20
 
 ***
 
@@ -67,10 +67,10 @@ Pass Da B      |               0   |             0      |           1
 | 🏅 ***Folo*** | 798p | Week 4 |
 | 🎖️ ***Dada***  |797p | Week 6 |
 
+***
+
 ![](https://media.discordapp.net/attachments/806343355264401478/838752579680600064/image.png)  
 {: style="text-align: center;"}
-
-***
 
 ## Weekly Friendly Adventure Contest
 {: style="text-align: center;"}
