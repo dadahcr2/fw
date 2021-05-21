@@ -46,7 +46,7 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 
 <br>  
 
-### **Hall of Fame**    
+## **Hall of Fame**    
 {: style="text-align: center;"}
 
 Podium Placements  | 🏆  | 🥈  | 🥉 
