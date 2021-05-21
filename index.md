@@ -1,6 +1,6 @@
 #  [![FRIENDLY WARS](https://cdn.discordapp.com/attachments/830767960008294442/838384347660812298/FW-welcome-banner.png)](#_2)  
 {: style="text-align: center;"}
-### ->**To compete in the friendly wars daily, make friends with the two moderators below**<-
+### **To compete in the friendly wars daily, make friends with the two moderators below**
 {: style="text-align: center;"}
 ### Gutta: <https://playhcr.com/invite?id=0vyMBx>
 {: style="text-align: center;"}
