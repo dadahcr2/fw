@@ -4,7 +4,7 @@
 #  [![FRIENDLY WARS](https://media.discordapp.net/attachments/806343355264401478/845189569079279626/image.png?width=467&height=467)](#_2)  
 {: style="text-align: center;"}
 
-"Welcome to one of tne most, if not tne most fun competition in HCR2!  These competitoms don't revolve around the daily/weekly tabs or challenges, but rather they run on **time trials**. This means that you can run it besides besides other competitions and you save all your precious gems."    
+"Welcome to one of tne most, if not tne most fun competition in HCR2!  These competitions don't revolve around the daily/weekly tabs or challenges, but rather they run on **time trials**. This means that you can run it besides other competitions and you save all your precious gems."    
 {: style="text-align: center;"}  
 
 ### **To compete in the friendly wars daily, make friends with the two moderators below**
