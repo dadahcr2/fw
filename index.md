@@ -35,8 +35,6 @@ May 20
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966705847894036/angry_bill.png)
 {: style="text-align: center;"}
 
-***
-
 <br> 
 ## Results
 {: style="text-align: center;"}
@@ -64,6 +62,7 @@ x Spectre x | 0 | 1 | 0
 Oxford            |              0    |            0       |          1
 Pass Da B      |               0   |             0      |           1
 
+<br>
 | **Top 5 Highest Points** | Points  |  Week | 
 | -- | -- | -- |
 | 🏆  ***Linge*** | 804p | Week 1 |
@@ -112,7 +111,6 @@ Serendipity | <https://playhcr.com/invite?id=BbZxee>
 
 If you are not on the list and should be, let me know....  
 
-<br>
 
 # [![](https://cdn.discordapp.com/attachments/831966505812885505/831966772256047158/event-ui-bg.png)](#_1)
 {: style="text-align: center;"}
