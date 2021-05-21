@@ -16,13 +16,11 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 
 (and if your discord name is different to your in-game name, please post it in **#your-game-nik**)
 {: style="text-align: center;"}
-
 <br>  
 
 ***
 
 <br>  
-
 ## Daily Time Trial
 {: style="text-align: center;"}
 Compete daily in the time-trials. Points awarded based on position and added up each week  
