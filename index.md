@@ -6,7 +6,7 @@
 
 "Welcome to one of tne most, if not tne most fun competition in HCR2!  These competitions don't revolve around the daily/weekly tabs or challenges, but rather they run on **time trials**. This means that you can run it besides other competitions and you save all your precious gems."    
 {: style="text-align: center;"}  
-
+<br>
 ### **To compete in the friendly wars daily, make friends with the two moderators below**
 {: style="text-align: center;"}
 ### Gutta: <https://playhcr.com/invite?id=0vyMBx>
