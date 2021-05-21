@@ -43,12 +43,10 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 ![](https://media.discordapp.net/attachments/815005702245449728/843214499354902549/unknown.png)  
 {: style="text-align: center;"}
 
-<br>   
+<br>  
 
-![Hall of Fame](https://cdn.discordapp.com/attachments/806343355264401478/835663043676471306/image0.png)
+[](### ->**Hall of Fame**)  
 {: style="text-align: center;"}
-
-[](##### ->**Hall of Fame**<-)  
 
 Podium Placements  | 🏆  | 🥈  | 🥉 
 -- | -- | -- | --
