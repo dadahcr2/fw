@@ -1,3 +1,6 @@
+
+***
+
 #  [![FRIENDLY WARS](https://media.discordapp.net/attachments/806343355264401478/845189569079279626/image.png?width=467&height=467)](#_2)  
 {: style="text-align: center;"}
 ### **To compete in the friendly wars daily, make friends with the two moderators below**
