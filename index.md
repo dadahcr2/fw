@@ -26,7 +26,7 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 Compete daily in the time-trials. Points awarded based on position and added up each week  
 {: style="text-align: center;"}
 <br>
-####**May 20**
+#### **May 20**
 {: style="text-align: center;"}
 ### **Monster Truck-Dirty Rally-FingerWoods**
 {: style="text-align: center;"}
