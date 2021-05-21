@@ -4,7 +4,7 @@
 #  [![FRIENDLY WARS](https://media.discordapp.net/attachments/806343355264401478/845189569079279626/image.png?width=467&height=467)](#_2)  
 {: style="text-align: center;"}
 
-"_Welcome to one of tne most, if not tne most fun competition in HCR2!  These competitions don't revolve around the daily/weekly tabs or challenges, but rather they run on **time trials**. This means that you can run it besides other competitions and you save all your precious gems._"    
+"_Welcome to one of tne most, if not tne most fun competition in HCR2!  These competitions don't revolve around the daily/weekly tabs or challenges, but rather they run on **time trials**. This means that you can run it besides other competitions and you save all your precious gems_"    
 {: style="text-align: center;"}  
 <br>
 ### **To compete in the friendly wars daily, make friends with the two moderators below**
@@ -33,7 +33,7 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 Compete daily in the time-trials. Points awarded based on position and added up each week  
 {: style="text-align: center;"}
 
-### May 20 : **`Monster Truck-Dirty Rally-FingerWoods`**
+### May 21 : **`Hot Rod-Countryside Cup-Four-Wheel Park`**
 {: style="text-align: center;"}
 <br>
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966705847894036/angry_bill.png)
