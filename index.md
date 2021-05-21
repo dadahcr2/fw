@@ -31,7 +31,7 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 
 ### May 20 : **Monster Truck-Dirty Rally-FingerWoods**
 {: style="text-align: center;"}
-
+<br>
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966705847894036/angry_bill.png)
 {: style="text-align: center;"}
 <br>  
@@ -46,7 +46,7 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 
 <br>  
 
-[](### ->**Hall of Fame**)  
+### **Hall of Fame**    
 {: style="text-align: center;"}
 
 Podium Placements  | 🏆  | 🥈  | 🥉 
