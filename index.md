@@ -49,7 +49,7 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 {: style="text-align: center;"}
 
 Podium Placements  | 🏆  | 🥈  | 🥉 
--- | -- | -- | --
+-- | :--: | :--: | :--:
 Dada             |                5       |          1      |            1
 Folo                |               1       |           1        |         1
 Coldity       |                   0    |            2       |          1
@@ -65,7 +65,7 @@ Pass Da B      |               0   |             0      |           1
 <br>
 
 | **Top 5 Highest Points** | Points  |  Week | 
-| -- | -- | -- |
+| -- | :--: | :--: |
 | 🏆  ***Linge*** | 804p | Week 1 |
 | 🏆  ***Dada***  |804p | Week 7 |
 | 🥉  ***Dada***  |801p | Week 8 |
