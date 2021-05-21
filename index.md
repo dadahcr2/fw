@@ -24,8 +24,6 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 **Compete daily in the time-trials. Points awarded based on position and added up each week**  
 {: style="text-align: center;"}
 
-***
-
 Today's vehicle and track | Date
 :--: | :--:
 ***Monster Truck-Dirty Rally-FingerWoods*** | May 20
@@ -39,6 +37,8 @@ Today's vehicle and track | Date
 {: style="text-align: center;"}
 ![](https://media.discordapp.net/attachments/815005702245449728/843214499354902549/unknown.png)  
 {: style="text-align: center;"}
+
+***
 
 ![Hall of Fame](https://cdn.discordapp.com/attachments/806343355264401478/835663043676471306/image0.png)
 {: style="text-align: center;"}
@@ -69,9 +69,12 @@ Pass Da B      |               0   |             0      |           1
 
 ![](https://media.discordapp.net/attachments/806343355264401478/838752579680600064/image.png)  
 {: style="text-align: center;"}
+
+***
+
 ## Weekly Friendly Adventure Contest
 {: style="text-align: center;"}
-_May Week 2: **Hotrod, Patchwork Plant**_  
+May Week 2: **Hotrod, Patchwork Plant**  
 {: style="text-align: center;"}
 
 if competing, post your distances in the ***#screenshot-submissions*** channel on the discord server  
