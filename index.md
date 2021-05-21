@@ -1,14 +1,15 @@
-#  [![FRIENDLY WARS](https://cdn.discordapp.com/attachments/830767960008294442/838384347660812298/FW-welcome-banner.png)](#_2)
-##### ->**To compete in the friendly wars daily, make friends with the two moderators below**<-
+#  [![FRIENDLY WARS](https://cdn.discordapp.com/attachments/830767960008294442/838384347660812298/FW-welcome-banner.png)](#_2)  
 {: style="text-align: center;"}
-##### Gutta: <https://playhcr.com/invite?id=0vyMBx>
+### ->**To compete in the friendly wars daily, make friends with the two moderators below**<-
 {: style="text-align: center;"}
-##### Folo: <https://playhcr.com/invite?id=A9ddPO>  
+### Gutta: <https://playhcr.com/invite?id=0vyMBx>
+{: style="text-align: center;"}
+### Folo: <https://playhcr.com/invite?id=A9ddPO>  
 {: style="text-align: center;"}
 
-##### **Results are reported on the Friendly Wars Discord Server**
+### **Results are reported on the Friendly Wars Discord Server**
 {: style="text-align: center;"}
-#####  <https://discord.gg/Ntc2cTUrkU> 
+###  <https://discord.gg/Ntc2cTUrkU> 
 {: style="text-align: center;"}
 When joining, say "**Hi**" in the **#general-chat** so that the moderators know to look out for your name in their friend rankings  
 {: style="text-align: center;"}
@@ -18,19 +19,23 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 
 ***
 
-#### Daily Time Trial
+## Daily Time Trial
 {: style="text-align: center;"}
 **Compete daily in the time-trials. Points awarded based on position and added up each week**  
 {: style="text-align: center;"}
+
+***
 
 Today's vehicle and track | Date
 :--: | :--:
 ***Monster Truck-Dirty Rally-FingerWoods*** | May 20
 
+***
+
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966705847894036/angry_bill.png)
 {: style="text-align: center;"}
 
-#### Results
+## Results
 {: style="text-align: center;"}
 ![](https://media.discordapp.net/attachments/815005702245449728/843214499354902549/unknown.png)  
 {: style="text-align: center;"}
@@ -64,9 +69,9 @@ Pass Da B      |               0   |             0      |           1
 
 ![](https://media.discordapp.net/attachments/806343355264401478/838752579680600064/image.png)  
 {: style="text-align: center;"}
-#### Weekly Friendly Adventure Contest
+## Weekly Friendly Adventure Contest
 {: style="text-align: center;"}
-_May Week 2: ** Hotrod, Patchwork Plant**_  
+_May Week 2: **Hotrod, Patchwork Plant**_  
 {: style="text-align: center;"}
 
 if competing, post your distances in the ***#screenshot-submissions*** channel on the discord server  
@@ -74,7 +79,7 @@ if competing, post your distances in the ***#screenshot-submissions*** channel o
 
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966759534854154/desertX.png)
 
-#### Make some friends
+## Make some friends
 
 Name | Link
 -- | --
@@ -101,5 +106,5 @@ If you are not on the list and should be, let me know....
 [Email](mailto:dadahcr2@gmail.com) - <http://hcr2.info>  
 {: style="text-align: center;"}
 
-![](https://media.discordapp.net/attachments/806343355264401478/841864986590576660/2A8C00CC-70A7-4510-8847-09C3360CA512.png?width=100&height=100)
+![](https://media.discordapp.net/attachments/806343355264401478/841864986590576660/2A8C00CC-70A7-4510-8847-09C3360CA512.png?width=100&height=100)  
 {: style="text-align: center;"}
