@@ -28,7 +28,9 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 Compete daily in the time-trials. Points awarded based on position and added up each week  
 {: style="text-align: center;"}
 
-'**May 20 : Monster Truck-Dirty Rally-FingerWoods'**
+May 20  
+:--:
+**Monster Truck-Dirty Rally-FingerWoods**
 
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966705847894036/angry_bill.png)
 {: style="text-align: center;"}
@@ -36,7 +38,6 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 ***
 
 <br> 
-
 ## Results
 {: style="text-align: center;"}
 ![](https://media.discordapp.net/attachments/815005702245449728/843214499354902549/unknown.png)  
@@ -81,7 +82,7 @@ Pass Da B      |               0   |             0      |           1
 
 ## Weekly Friendly Adventure Contest
 {: style="text-align: center;"}
-May Week 2: **Hotrod, Patchwork Plant**  
+May Week 2: **`Hotrod, Patchwork Plant`**  
 {: style="text-align: center;"}
 
 if competing, post your distances in the ***#screenshot-submissions*** channel on the discord server  
