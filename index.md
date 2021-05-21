@@ -1,4 +1,4 @@
-#  [![FRIENDLY WARS](https://cdn.discordapp.com/attachments/806343355264401478/845189569079279626/image.png)](#_2)  
+#  [![FRIENDLY WARS](https://media.discordapp.net/attachments/806343355264401478/845189569079279626/image.png?width=467&height=467)](#_2)  
 {: style="text-align: center;"}
 ### **To compete in the friendly wars daily, make friends with the two moderators below**
 {: style="text-align: center;"}
@@ -25,10 +25,10 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 {: style="text-align: center;"}
 Compete daily in the time-trials. Points awarded based on position and added up each week  
 {: style="text-align: center;"}
-
-**May 20**
+<br>
+####**May 20**
 {: style="text-align: center;"}
-#### **Monster Truck-Dirty Rally-FingerWoods**|
+### **Monster Truck-Dirty Rally-FingerWoods**
 {: style="text-align: center;"}
 
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966705847894036/angry_bill.png)
