@@ -33,7 +33,7 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 Compete daily in the time-trials. Points awarded based on position and added up each week  
 {: style="text-align: center;"}
 
-### May 21 : **`Hot Rod-Countryside Cup-Four-Wheel Park`**
+### May 21 : **`Dune Buggy-Tunnels-On the Rock`**
 {: style="text-align: center;"}
 <br>
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966705847894036/angry_bill.png)
@@ -45,7 +45,7 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 <br>  
 ## Results
 {: style="text-align: center;"}
-![](https://media.discordapp.net/attachments/815005702245449728/843214499354902549/unknown.png)  
+![](https://cdn.discordapp.com/attachments/815005702245449728/845738774143172628/unknown.png)  
 {: style="text-align: center;"}
 
 <br>  
@@ -55,27 +55,29 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 
 Podium Placements  | 🏆  | 🥈  | 🥉 
 -- | :--: | :--: | :--:
-Dada             |                5       |          1      |            1
+Dada             |                6      |          1      |            1
 Folo                |               1       |           1        |         1
 Coldity       |                   0    |            2       |          1
+Getzata             |                0     |            2   |           1
 Serendipity       |           1      |           0      |           1
 Linge             |                1     |            0     |           0
 Alpex             |                 0      |           1     |            1
-Getzata             |                0     |            1     |           1
 Jack           |                    0     |           1        |         0
 x Spectre x | 0 | 1 | 0 
 Oxford            |              0    |            0       |          1
 Pass Da B      |               0   |             0      |           1
+Shaun | | 1
 
 <br>
 
 | **Top 5 Highest Points** | Points  |  Week | 
 | -- | :--: | :--: |
-| 🏆  ***Linge*** | 804p | Week 1 |
-| 🏆  ***Dada***  |804p | Week 7 |
-| 🥉  ***Dada***  |801p | Week 8 |
-| 🏅 ***Folo*** | 798p | Week 4 |
-| 🎖️ ***Dada***  |797p | Week 6 |
+| 🏆 ***Dada*** | 809p | Week 9 |
+| 🥉 ***Linge** | 804p | Week 1 |
+| 🥉 ***Dada***  |804p | Week 7 |
+| 🥉 ***Getzata*** | 804p | Week 9 |
+| 🏅 ***Dada***  |801p | Week 8 |
+| 🎖️ ***Folo*** | 798p | Week 4 |
 
 <br>
 
