@@ -33,7 +33,7 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 Compete daily in the time-trials. Points awarded based on position and added up each week  
 {: style="text-align: center;"}
 
-### May 22 : **`Dune Buggy-Tunnels-On the Rock`**
+### May 23 : **`Bus-Mountain Bridges-Over the Cliff`**
 {: style="text-align: center;"}
 <br>
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966705847894036/angry_bill.png)
