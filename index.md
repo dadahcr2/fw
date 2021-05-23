@@ -89,7 +89,7 @@ Shaun | | 1
 
 ## Weekly Friendly Adventure Contest
 {: style="text-align: center;"}
-May Week 2: **`Hotrod, Patchwork Plant`**  
+May Week 3/4: **`Buggy, City`**  
 {: style="text-align: center;"}
 
 if competing, post your distances in the ***#screenshot-submissions*** channel on the discord server  
