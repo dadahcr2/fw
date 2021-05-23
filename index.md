@@ -66,7 +66,7 @@ Jack           |                    0     |           1        |         0
 x Spectre x | 0 | 1 | 0 
 Oxford            |              0    |            0       |          1
 Pass Da B      |               0   |             0      |           1
-Shaun | | 1
+Shaun | 0 | 0 | 1
 
 <br>
 
