@@ -73,7 +73,7 @@ Shaun | 0 | 0 | 1
 | **Top 5 Highest Points** | Points  |  Week | 
 | -- | :--: | :--: |
 | 🏆 ***Dada*** | 809p | Week 9 |
-| 🥉 ***Linge** | 804p | Week 1 |
+| 🥉 ***Linge*** | 804p | Week 1 |
 | 🥉 ***Dada***  |804p | Week 7 |
 | 🥉 ***Getzata*** | 804p | Week 9 |
 | 🏅 ***Dada***  |801p | Week 8 |
