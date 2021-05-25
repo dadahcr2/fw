@@ -33,11 +33,12 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 Compete daily in the time-trials. Points awarded based on position and added up each week  
 {: style="text-align: center;"}
 
-### May 25 : **`Scooter-Cup in the Woods-The Pond`**
+### May 25 : **~~`Scooter-Cup in the Woods-The Pond`~~`Scooter-Winter Cup-Icicle Race`**  
+(Track changed due to glitch)  
 {: style="text-align: center;"}
 <br>
-![](https://cdn.discordapp.com/attachments/831966505812885505/831966705847894036/angry_bill.png)
-{: style="text-align: center;"}
+![](https://cdn.discordapp.com/attachments/831966505812885505/831966705847894036/angry_bill.png)  
+{: style="text-align: center;"}  
 <br>  
 
 ***
