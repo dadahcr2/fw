@@ -34,6 +34,7 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 {: style="text-align: center;"}
 
 ### May 25 : **~~`Scooter-Cup in the Woods-The Pond`~~`Scooter-Winter Cup-Icicle Race`**  
+{: style="text-align: center;"}  
 (Track changed due to glitch)  
 {: style="text-align: center;"}
 <br>
