@@ -108,6 +108,7 @@ Name | Link
 Alex | <https://playhcr.com/invite?id=Jm01qp>
 Boodles | <https://playhcr.com/invite?id=N4qzEl>
 Chad | <https://playhcr.com/invite?id=YAe3lP>
+Coldity | <https://playhcr.com/invite?id=KDYdao>
 Dada | <https://playhcr.com/invite?id=XN7N73T>
 DizzyFranco | <https://playhcr.com/invite?id=BbJqpO>
 Doc | <https://playhcr.com/invite?id=4DWbEO>
