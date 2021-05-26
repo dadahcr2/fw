@@ -33,7 +33,7 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 Compete daily in the time-trials. Points awarded based on position and added up each week  
 {: style="text-align: center;"}
 
-### May 25 : **`Scooter`~~`-Cup in the Woods-The Pond`~~`-Winter Cup-Icicle Race`**  
+### May 26 : **`Formula-First Snow-Slippery Slope`**  
 {: style="text-align: center;"}  
 (Track changed due to glitch)  
 {: style="text-align: center;"}
