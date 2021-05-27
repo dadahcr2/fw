@@ -33,7 +33,7 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 Compete daily in the time-trials. Points awarded based on position and added up each week  
 {: style="text-align: center;"}
 
-### May 26 : **`Formula-First Snow-Slippery Slope`**  
+### May 27 : **`Supercar-Green Cup-Spartan Racing`**  
 {: style="text-align: center;"}  
 (Track changed due to glitch)  
 {: style="text-align: center;"}
