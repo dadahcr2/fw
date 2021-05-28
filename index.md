@@ -35,8 +35,7 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 
 ### May 27 : **`Supercar-Green Cup-Spartan Racing`**  
 {: style="text-align: center;"}  
-(Track changed due to glitch)  
-{: style="text-align: center;"}
+
 <br>
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966705847894036/angry_bill.png)  
 {: style="text-align: center;"}  
