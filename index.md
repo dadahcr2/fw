@@ -56,9 +56,9 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 
 Podium Placements  | 🏆  | 🥈  | 🥉 
 -- | :--: | :--: | :--:
-Dada             |                6      |          1      |            1
-Folo                |               1       |           1        |         1  
-x Spectre x | 0 | 1 | 0   
+Dada             |                6      |          2      |            1
+Folo                |               1       |           1        |         2  
+x Spectre x | 1 | 1 | 0   
 Coldity       |                   0    |            2       |          1
 Getzata             |                0     |            2   |           1
 Serendipity       |           1      |           0      |           1
