@@ -57,14 +57,14 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 Podium Placements  | 🏆  | 🥈  | 🥉 
 -- | :--: | :--: | :--:
 Dada             |                6      |          1      |            1
-Folo                |               1       |           1        |         1
+Folo                |               1       |           1        |         1  
+x Spectre x | 0 | 1 | 0   
 Coldity       |                   0    |            2       |          1
 Getzata             |                0     |            2   |           1
 Serendipity       |           1      |           0      |           1
 Linge             |                1     |            0     |           0
 Alpex             |                 0      |           1     |            1
 Jack           |                    0     |           1        |         0
-x Spectre x | 0 | 1 | 0 
 Oxford            |              0    |            0       |          1
 Pass Da B      |               0   |             0      |           1
 Shaun | 0 | 0 | 1
@@ -74,8 +74,9 @@ Shaun | 0 | 0 | 1
 | **Top 5 Highest Points** | Points  |  Week | 
 | -- | :--: | :--: |
 | 🏆 ***Dada*** | 809p | Week 9 |
+| 🥈 ***x Spectre x | 805p £ Week 10 |  
 | 🥉 ***Linge*** | 804p | Week 1 |
-| 🥉 ***Dada***  |804p | Week 7 |
+| 🥉 ***Dada***  | 804p | Week 7 |
 | 🥉 ***Getzata*** | 804p | Week 9 |
 | 🏅 ***Dada***  |801p | Week 8 |
 | 🎖️ ***Folo*** | 798p | Week 4 |
