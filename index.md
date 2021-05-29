@@ -74,7 +74,7 @@ Shaun | 0 | 0 | 1
 | **Top 5 Highest Points** | Points  |  Week | 
 | -- | :--: | :--: |
 | 🏆 ***Dada*** | 809p | Week 9 |
-| 🥈 ***x Spectre x | 805p £ Week 10 |  
+| 🥈 ***x Spectre x*** | 805p | Week 10 |  
 | 🥉 ***Linge*** | 804p | Week 1 |
 | 🥉 ***Dada***  | 804p | Week 7 |
 | 🥉 ***Getzata*** | 804p | Week 9 |
