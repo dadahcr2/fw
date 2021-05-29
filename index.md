@@ -92,7 +92,7 @@ Shaun | 0 | 0 | 1
 
 ## Weekly Friendly Adventure Contest
 {: style="text-align: center;"}
-May Week 3/4: **`Buggy, City`**  
+May Last Week : **`Rading Truck - Countryside`**  
 {: style="text-align: center;"}
 
 if competing, post your distances in the ***#screenshot-submissions*** channel on the discord server  
