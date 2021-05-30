@@ -33,7 +33,7 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 Compete daily in the time-trials. Points awarded based on position and added up each week  
 {: style="text-align: center;"}
 
-### May 29 : **`Monowheel-Bumpy Ride Cup-Bumpy Ride`**  
+### May 30 : **`Jeep/Hill Climber-Deep Driving-Thalassophobia`**  
 {: style="text-align: center;"}  
 
 <br>
