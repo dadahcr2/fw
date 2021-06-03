@@ -91,7 +91,7 @@ Shaun | 0 | 0 | 1
 
 ## Weekly Friendly Adventure Contest
 {: style="text-align: center;"}
-May Last Week : **`Rading Truck - Countryside`**  
+May Last Week : **`Racing Truck - Countryside`**  
 {: style="text-align: center;"}
 
 if competing, post your distances in the ***#screenshot-submissions*** channel on the discord server  
