@@ -45,9 +45,8 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 
 <br>  
 ## Results - Week 10
-{: style="text-align: center;"}
-
-![](https://cdn.discordapp.com/attachments/815005702245449728/848288299776081950/unknown.png>   
+{: style="text-align: center;"}  
+![](https://cdn.discordapp.com/attachments/815005702245449728/848288299776081950/unknown.png)  
 {: style="text-align: center;"}
 
 <br>  
