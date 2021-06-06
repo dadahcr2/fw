@@ -33,7 +33,7 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 Compete daily in the time-trials. Points awarded based on position and added up each week  
 {: style="text-align: center;"}
 
-### June 3 : **`Dune Buggy-More Mines-Deep End`**  
+### June 5 : **`Dune Buggy-More Mines-Deep End`**  
 {: style="text-align: center;"}  
 
 <br>
