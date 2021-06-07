@@ -91,7 +91,7 @@ Shaun | 0 | 0 | 1
 
 ## Friendly Adventure Contest
 {: style="text-align: center;"}
-June unti mid-month: **`Sportscar- DesertValley`**  
+June until mid-month: **`Sportscar- DesertValley`**  
 {: style="text-align: center;"}
 
 if competing, post your distances in the ***#screenshot-submissions*** channel on the discord server  
