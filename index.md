@@ -89,9 +89,9 @@ Shaun | 0 | 0 | 1
 
 <br>  
 
-## Weekly Friendly Adventure Contest
+## Friendly Adventure Contest
 {: style="text-align: center;"}
-May Last Week : **`Racing Truck - Countryside`**  
+June unti mid-month: **`Sportscar- DesertValley`**  
 {: style="text-align: center;"}
 
 if competing, post your distances in the ***#screenshot-submissions*** channel on the discord server  
