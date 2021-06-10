@@ -33,7 +33,7 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 Compete daily in the time-trials. Points awarded based on position and added up each week  
 {: style="text-align: center;"}
 
-### June 9 : **`Hot Rod-Mountain Bridges-Over the Cliff`**  
+  ### June 10 : **`Supercar-Uphill Cup-Cliffside Way`**  
 {: style="text-align: center;"}  
 
 <br>
