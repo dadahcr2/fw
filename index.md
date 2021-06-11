@@ -33,7 +33,7 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 Compete daily in the time-trials. Points awarded based on position and added up each week  
 {: style="text-align: center;"}
 
-  ### June 10 : **`Supercar-Uphill Cup-Cliffside Way`**  
+  ### June 11 : **`Scooter - Big Air Cup - Big Air`**  
 {: style="text-align: center;"}  
 
 <br>
