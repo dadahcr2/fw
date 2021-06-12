@@ -59,7 +59,7 @@ Podium Placements  | 🏆  | 🥈  | 🥉
 Dada             |                7      |          2      |            1
 x Spectre x | 2 | 2 | 0   
 Folo                |               1       |           1        |         2   
-Coldity       |                   0    |            2       |          2
+Coldity       |                   0    |            2       |          3
 Getzata             |                0     |            2   |           1
 Serendipity       |           1      |           0      |           1
 Linge             |                1     |            0     |           0
