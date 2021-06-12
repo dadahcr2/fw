@@ -44,9 +44,9 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 ***
 
 <br>  
-## Results - Week 11
+## Results - Week 12
 {: style="text-align: center;"}  
-![](https://cdn.discordapp.com/attachments/815005702245449728/850826209029390366/unknown.png)  
+![](https://media.discordapp.net/attachments/815005702245449728/853373679404974090/unknown.png)  
 {: style="text-align: center;"}
 
 <br>  
@@ -57,19 +57,20 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 Podium Placements  | 🏆  | 🥈  | 🥉 
 -- | :--: | :--: | :--:
 Dada             |                7      |          2      |            1
-Folo                |               1       |           1        |         2  
-x Spectre x | 1 | 2 | 0   
+x Spectre x | 2 | 2 | 0   
+Folo                |               1       |           1        |         2   
 Coldity       |                   0    |            2       |          2
 Getzata             |                0     |            2   |           1
 Serendipity       |           1      |           0      |           1
 Linge             |                1     |            0     |           0
 Alpex             |                 0      |           1     |            1
 Jack           |                    0     |           1        |         0
+Date | 0 | 1 | 0  
 Oxford            |              0    |            0       |          1
 Pass Da B      |               0   |             0      |           1
 Shaun | 0 | 0 | 1
 
-<br>
+<br> 
 
 | **Top 5 Highest Points** | Points  |  Week | 
 | -- | :--: | :--: |
