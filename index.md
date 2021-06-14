@@ -33,7 +33,7 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 Compete daily in the time-trials. Points awarded based on position and added up each week  
 {: style="text-align: center;"}
 
-  ### June 13 : **`Moonlander-Rocky Road Cup-Highs and Lows`**  
+  ### June 14 : **`Bus-Death Mountain-Crazy Climb`**  
 {: style="text-align: center;"}  
 
 <br>
