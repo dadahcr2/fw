@@ -92,7 +92,7 @@ Shaun | 0 | 0 | 1
 
 ## Friendly Adventure Contest
 {: style="text-align: center;"}
-June until month-end: **`**Monowheel-Winter**`**  
+June until month-end: **`Monowheel-Winter`**  
 {: style="text-align: center;"}
 
 if competing, post your distances in the ***#screenshot-submissions*** channel on the discord server  
