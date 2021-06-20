@@ -44,9 +44,9 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 ***
 
 <br>  
-## Results - Week 12
+## Results - Week 13
 {: style="text-align: center;"}  
-![](https://media.discordapp.net/attachments/815005702245449728/853373679404974090/unknown.png)  
+![](https://cdn.discordapp.com/attachments/815005702245449728/856267821264142386/unknown.png)  
 {: style="text-align: center;"}
 
 <br>  
@@ -57,10 +57,10 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 Podium Placements  | 🏆  | 🥈  | 🥉 
 -- | :--: | :--: | :--:
 Dada             |                7      |          2      |            1
-x Spectre x | 2 | 2 | 0   
-Folo                |               1       |           1        |         2   
+x Spectre x | 3 | 2 | 0   
+Folo                |               1       |           2        |         2   
 Coldity       |                   0    |            2       |          3
-Getzata             |                0     |            2   |           1
+Getzata             |                0     |            2   |           2
 Serendipity       |           1      |           0      |           1
 Linge             |                1     |            0     |           0
 Alpex             |                 0      |           1     |            1
