@@ -1,2 +1,2 @@
-### June 19:  **`Rally Car-Mine Shaft Cup-A Flat Miner`**
+### June 20:  **`Monster Truck-Bumpy Ride Cup-Rough Road`**
 {: style="text-align: center;"}
