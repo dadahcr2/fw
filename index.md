@@ -33,9 +33,9 @@ When joining, say "**Hi**" in the **#general-chat** so that the moderators know 
 Compete daily in the time-trials. Points awarded based on position and added up each week  
 {: style="text-align: center;"}
 
-### June 19 : **`Rally Car-Mine Shaft Cup-A Flat Miner`**  
-{: style="text-align: center;"}  
-<center><iframe src="daily.html" title="daily"></iframe></center>
+<!-- ### June 19 : **`Rally Car-Mine Shaft Cup-A Flat Miner`**  
+{: style="text-align: center;"}  -->
+<center><iframe src="daily.html" frameborder="0" allowfullscreen="true"> </iframe></center>
 <br>
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966705847894036/angry_bill.png)  
 {: style="text-align: center;"}  
