@@ -1,2 +1,2 @@
-### June 20:  **`Monster Truck-Bumpy Ride Cup-Rough Road`**
+### June 21:  **`Monowheel-Countryside Cup-Showgrounds`**
 {: style="text-align: center; vertical-align: middle;"}
