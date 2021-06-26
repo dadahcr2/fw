@@ -82,7 +82,7 @@ Shaun | 0 | 0 | 1
 | 🥉 ***Getzata*** | 804p | Week 9 |
 | 🏅 ***Dada***  |801p | Week 8 |
 | 🏅 ***Folo***  |801p | Week 13 |
-| 🎖️ ***Folo*** | 798p | Week 4 |
+
 
 <br>
 
