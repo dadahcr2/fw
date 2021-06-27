@@ -58,12 +58,12 @@ Podium Placements  | 🏆  | 🥈  | 🥉
 -- | :--: | :--: | :--:
 Dada             |                7      |          3      |            1  
 x Spectre x | 3 | 2 | 0   
-Folo                |               1       |           2        |         2   
+Folo                |               1       |           2        |         3   
 Getzata             |                1     |            2   |           2  
-Coldity       |                   0    |            2       |          3  
+Coldity       |                   0    |            2       |          2  
 Serendipity       |           1      |           0      |           1
 Linge             |                1     |            0     |           0
-Alex             |                 0      |           1     |            3
+Alex             |                 0      |           1     |            2
 Jack           |                    0     |           1        |         0
 Date | 0 | 1 | 0  
 Oxford            |              0    |            0       |          1
