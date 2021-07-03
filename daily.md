@@ -1,2 +1,2 @@
-### July 2:  **`Sports Car-Downhill Trials-Trial of fall`**
+### July 3:  **`HillClimberMk2 -Downhill Cup-Tumbling Down`**
 {: style="text-align: center; vertical-align: middle;"}
