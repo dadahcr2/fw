@@ -74,14 +74,13 @@ Shaun | 0 | 0 | 1
 
 | **Top 5 Highest Points** | Points  |  Week | 
 | -- | :--: | :--: |
-| 🏆 ***Dada*** | 809p | Week 9 |
-| 🥈 ***x Spectre x*** | 805p | Week 10 |  
-| 🥉 ***Linge*** | 804p | Week 1 |
-| 🥉 ***Dada***  | 804p | Week 7 |
-| 🥉 ***x Spectre x*** | 805p | Week 13 | 
-| 🥉 ***Getzata*** | 804p | Week 9 |
-| 🏅 ***Dada***  |801p | Week 8 |
-| 🏅 ***Folo***  |801p | Week 13 |
+| 1 ***Serendipity*** | 810p | Week 15 |
+| 2 ***Dada*** | 809p | Week 9 |
+| 3 ***x Spectre x*** | 805p | Week 10 |  
+| 4 ***Linge*** | 804p | Week 1 |
+| 4 ***Dada***  | 804p | Week 7 |
+| 4 ***x Spectre x*** | 804p | Week 13 | 
+| 4 ***Getzata*** | 804p | Week 9 |
 
 
 <br>
