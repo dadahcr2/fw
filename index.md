@@ -94,8 +94,7 @@ Shaun | 0 | 0 | 1
 
 ## Friendly Adventure Contest
 {: style="text-align: center;"}
-June until month-end: **`Monowheel-Winter`**  
-{: style="text-align: center;"}
+<div><iframe src="adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>  
 
 if competing, post your distances in the ***#screenshot-submissions*** channel on the discord server  
 {: style="text-align: center;"}
