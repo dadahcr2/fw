@@ -1,2 +1,2 @@
-### July 13:  **`Monowheel-Green Cup-Bill's Landing`**
+### July 14:  **`Rally Car-Gloomvale Cup-Dusky Vale`**
 {: style="text-align: center; vertical-align: middle;"}
