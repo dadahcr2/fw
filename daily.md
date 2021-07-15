@@ -1,2 +1,2 @@
-### July 14:  **`Rally Car-Gloomvale Cup-Dusky Vale`**
+### July 15:  **`Formula-Interstate Cup-No Step on Snek`**
 {: style="text-align: center; vertical-align: middle;"}
