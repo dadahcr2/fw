@@ -44,9 +44,9 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 ***
 
 <br>  
-## Results - Week 15
+## Results - Week 16
 {: style="text-align: center;"}  
-![](https://cdn.discordapp.com/attachments/815005702245449728/861518460050604072/unknown.png)  
+![](https://cdn.discordapp.com/attachments/815005702245449728/864945138425528380/unknown.png)  
 {: style="text-align: center;"}
 
 <br>  
@@ -56,10 +56,10 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 
 Podium Placements  | 🏆  | 🥈  | 🥉 
 -- | :--: | :--: | :--:
-Dada             |                7      |          4      |            1  
-x Spectre x | 3 | 2 | 1   
+Dada             |                7      |          5      |            1  
+x Spectre x | 4 | 2 | 1   
 Folo                |               1       |           2        |         3   
-Getzata             |                1     |            2   |           2  
+Getzata             |                1     |            2   |           3  
 Serendipity       |           2      |           0      |           1
 Coldity       |                   0    |            2       |          2  
 Linge             |                1     |            0     |           0
