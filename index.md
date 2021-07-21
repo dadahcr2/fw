@@ -94,7 +94,7 @@ Shaun | 0 | 0 | 1
 {: style="text-align: center;"}
 <div><iframe src="adv.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>  
 
-if competing, post your distances in the ***#screenshot-submissions*** channel on the discord server  
+~~if competing, post your distances in the ***#screenshot-submissions*** channel on the discord server~~ (no longer a requirement)
 {: style="text-align: center;"}
 
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966759534854154/desertX.png)
