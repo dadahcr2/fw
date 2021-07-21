@@ -1,2 +1,2 @@
-### July 20:  **`Racing Truck-Winter Cup-Yellow Snow`**
+### July 21:  **`Scooter-Factory Cup-Factory Settings`**
 {: style="text-align: center; vertical-align: middle;"}
