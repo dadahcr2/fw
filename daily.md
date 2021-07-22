@@ -1,2 +1,2 @@
-### July 21:  **`Scooter-Factory Cup-Factory Settings`**
+### July 22:  **`Tank-Uphill Cup-Cliffside Way`**
 {: style="text-align: center; vertical-align: middle;"}
