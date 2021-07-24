@@ -1,2 +1,2 @@
-### July 23:  **`Monster Truck-Cup in the Woods-Captain's Log`**
+### July 24:  **`Chopper-Interstate Cup-Skid Happens`**
 {: style="text-align: center; vertical-align: middle;"}
