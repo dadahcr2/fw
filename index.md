@@ -55,21 +55,23 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 ## **Hall of Fame**    
 {: style="text-align: center;"}
 
-Podium Placements  | 🏆  | 🥈  | 🥉 
--- | :--: | :--: | :--:
-Dada             |                8      |          6     |            1  
+
+Podium Placements  | 🏆  | 🥈  | 🥉   
+-- | :--: | :--: | :--:  
+Dada             |                8      |          6     |            1    
 x Spectre x | 4 | 2 | 1   
-Getzata             |                2     |            3   |           3  
-Folo                |               1       |           2        |         3   
-Serendipity       |           2      |           0      |           1
-Coldity       |                   0    |            2       |          2  
-Linge             |                1     |            0     |           0
-Alex             |                 0      |           1     |            2
-Date | 0 | 1 | 2  
-Jack           |                    0     |           1        |         0
-Oxford            |              0    |            0       |          1
-Pass Da B      |               0   |             0      |           1
-Shaun | 0 | 0 | 1
+Getzata             |                2     |            3   |           3    
+Folo                |               1       |           2        |         3     
+Serendipity       |           2      |           0      |           1  
+Coldity       |                   0    |            2       |          2    
+Linge             |                1     |            0     |           0  
+Alex             |                 0      |           1     |            2  
+Date | 0 | 1 | 2    
+Jack           |                    0     |           1        |         0  
+Oxford            |              0    |            0       |          1  
+Pass Da B      |               0   |             0      |           1  
+Shaun | 0 | 0 | 1  
+
 <br> 
 
 | **Top 5 Highest Points** | Points  |  Week |   
