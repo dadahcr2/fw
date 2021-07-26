@@ -44,10 +44,10 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 ***
 
 <br>  
-## Results - Week 17
+## Results - Week 18
 
 {: style="text-align: center;"}  
-![](https://cdn.discordapp.com/attachments/815005702245449728/866978870115827722/unknown.png)  
+  ![](https://cdn.discordapp.com/attachments/815005702245449728/868943918694285332/unknown.png)  
 {: style="text-align: center;"}
 
 <br>  
@@ -57,29 +57,30 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 
 Podium Placements  | 🏆  | 🥈  | 🥉 
 -- | :--: | :--: | :--:
-Dada             |                7      |          6     |            1  
+Dada             |                8      |          6     |            1  
 x Spectre x | 4 | 2 | 1   
-Getzata             |                2     |            2   |           3  
+Getzata             |                2     |            3   |           3  
 Folo                |               1       |           2        |         3   
 Serendipity       |           2      |           0      |           1
 Coldity       |                   0    |            2       |          2  
 Linge             |                1     |            0     |           0
 Alex             |                 0      |           1     |            2
-Date | 0 | 1 | 1  
+Date | 0 | 1 | 2  
 Jack           |                    0     |           1        |         0
 Oxford            |              0    |            0       |          1
 Pass Da B      |               0   |             0      |           1
 Shaun | 0 | 0 | 1
-
 <br> 
 
 | **Top 5 Highest Points** | Points  |  Week | 
 | -- | :--: | :--: |
 | 1 ***Getzata*** | 818p | Week 17 |
-| 2 ***Serendipity*** | 810p | Week 15 |
-| 3 ***Dada*** | 809p | Week 9 |
-| 4 ***Dada***  | 806p | Week 17 |
-| 5 ***x Spectre x*** | 805p | Week 10 |  
+| 1 ***Dada*** | 818p | Week 18 |
+| 2 ***Getzata*** | 815p | Week 18 |
+| 3 ***Serendipity*** | 810p | Week 15 |
+| 4 ***Dada*** | 809p | Week 9 |
+| 5 ***Dada***  | 806p | Week 17 |
+| 6 ***x Spectre x*** | 805p | Week 10 |  
 
 
 <br>
