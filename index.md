@@ -72,15 +72,15 @@ Pass Da B      |               0   |             0      |           1
 Shaun | 0 | 0 | 1
 <br> 
 
-| **Top 5 Highest Points** | Points  |  Week | 
-| -- | :--: | :--: |
-| 1 ***Getzata*** | 818p | Week 17 |
-| 1 ***Dada*** | 818p | Week 18 |
-| 2 ***Getzata*** | 815p | Week 18 |
-| 3 ***Serendipity*** | 810p | Week 15 |
-| 4 ***Dada*** | 809p | Week 9 |
-| 5 ***Dada***  | 806p | Week 17 |
-| 6 ***x Spectre x*** | 805p | Week 10 |  
+| **Top 5 Highest Points** | Points  |  Week |   
+| -- | :--: | :--: |  
+| 1 ***Getzata*** | 818p | Week 17 |  
+| 1 ***Dada*** | 818p | Week 18 |  
+| 2 ***Getzata*** | 815p | Week 18 |  
+| 3 ***Serendipity*** | 810p | Week 15 |  
+| 4 ***Dada*** | 809p | Week 9 |  
+| 5 ***Dada***  | 806p | Week 17 |  
+| 6 ***x Spectre x*** | 805p | Week 10 |    
 
 
 <br>
