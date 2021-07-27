@@ -1,2 +1,2 @@
-### July 26:  **`HillClimberMk2-Rocky Road Cup-Highs and Lows`**
+### July 26:  **`Supercar-Deep Driving-Backwash Dash`**
 {: style="text-align: center; vertical-align: middle;"}
