@@ -1,2 +1,2 @@
-### Aug 4:  **`Super diesel-It's Mine!-Overtakers`**
+### Aug 5:  **`Motocross-Sunday Champ-Bridges and Stones`**
 {: style="text-align: center; vertical-align: middle;"}
