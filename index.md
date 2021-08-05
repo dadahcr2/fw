@@ -44,10 +44,10 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 ***
 
 <br>  
-## Results - Week 18
+## Results - Week 19
 
 {: style="text-align: center;"}  
-  ![](https://cdn.discordapp.com/attachments/815005702245449728/868943918694285332/unknown.png)  
+  ![](https://cdn.discordapp.com/attachments/815005702245449728/872775744533712906/unknown.png)  
 {: style="text-align: center;"}
 
 <br>  
@@ -58,9 +58,9 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 
 Podium Placements  | 🏆  | 🥈  | 🥉   
 -- | :--: | :--: | :--:  
-Dada             |                8      |          6     |            1    
+Dada             |                8      |          7     |            1    
 x Spectre x | 4 | 2 | 1   
-Getzata             |                2     |            3   |           3    
+Getzata             |                3     |            3   |           3    
 Folo                |               1       |           2        |         3     
 Serendipity       |           2      |           0      |           1  
 Coldity       |                   0    |            2       |          2    
@@ -69,20 +69,20 @@ Alex             |                 0      |           1     |            2
 Date | 0 | 1 | 2    
 Jack           |                    0     |           1        |         0  
 Oxford            |              0    |            0       |          1  
-Pass Da B      |               0   |             0      |           1  
+Pass Da B      |               0   |             0      |           1    
 Shaun | 0 | 0 | 1  
+Boodles | 0 | 0 | 1  
 
 <br> 
 
 | **Top 5 Highest Points** | Points  |  Week |   
 | -- | :--: | :--: |  
-| 1 ***Getzata*** | 818p | Week 17 |  
-| 1 ***Dada*** | 818p | Week 18 |  
-| 2 ***Getzata*** | 815p | Week 18 |  
-| 3 ***Serendipity*** | 810p | Week 15 |  
-| 4 ***Dada*** | 809p | Week 9 |  
-| 5 ***Dada***  | 806p | Week 17 |  
-| 6 ***x Spectre x*** | 805p | Week 10 |    
+| 1 ***Getzata*** | 821p | Week 19 |
+| 2 ***Getzata*** | 818p | Week 17 |  
+| 2 ***Dada*** | 818p | Week 18 |  
+| 3 ***Getzata*** | 815p | Week 18 |  
+| 4 ***Serendipity*** | 810p | Week 15 |  
+| 5 ***Dada*** | 809p | Week 9 |  
 
 
 <br>
