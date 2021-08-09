@@ -1,2 +1,2 @@
-### Aug 8:  **`Tank-Hill Climb Cup-Bottom Gear Cup`**
+### Aug 9:  **`Tractor-Hill Climb Cup-No Skidding`**
 {: style="text-align: center; vertical-align: middle;"}
