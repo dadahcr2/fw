@@ -1,2 +1,2 @@
-### Aug 11:  **`Racing Truck-Bumpy Ride Cup-Under the Cliff`**
+### Aug 12:  **`Chopper-Countryside Cup-Showgrounds`**
 {: style="text-align: center; vertical-align: middle;"}
