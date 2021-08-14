@@ -72,7 +72,8 @@ Oxford            |              0    |            0       |          1
 Pass Da B      |               0   |             0      |           1    
 Shaun | 0 | 0 | 1  
 Boodles | 0 | 0 | 1  
-Fozzy | 0 | 0 | 1  
+Fozzy | 0 | 0 | 1   
+
 <br> 
 
 | **Top 5 Highest Points** | Points  |  Week |   
