@@ -1,2 +1,2 @@
-### Aug 12:  **`Chopper-Countryside Cup-Showgrounds`**
+### Aug 13:  **`Rotator-Spring City-Whipclash`**
 {: style="text-align: center; vertical-align: middle;"}
