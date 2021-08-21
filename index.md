@@ -36,6 +36,7 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 <!-- ### June 19 : **`Rally Car-Mine Shaft Cup-A Flat Miner`**  
 {: style="text-align: center;"}  -->
 <div><iframe src="daily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
+<div><iframe src="https://rentry.co/fwdaily.html" width="100%" height="50" frameborder="0" allowfullscreen="true"> </iframe></div>
 <br>
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966705847894036/angry_bill.png)  
 {: style="text-align: center;"}  
