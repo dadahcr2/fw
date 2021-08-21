@@ -6,7 +6,7 @@
 
 "_Welcome to one of tne most, if not tne most fun competition in HCR2!  These competitions don't revolve around the daily/weekly tabs or challenges, but rather they run on **time trials**. This means that you can run it besides other competitions and you save all your precious gems_"    
 {: style="text-align: center;"}  
-<br>
+
 ![](https://rentry.co/fwdaily/png)
 <br>
 ### **To compete in the friendly wars daily, make friends with the two moderators below**
@@ -91,6 +91,7 @@ Fozzy | 0 | 0 | 1
 
 
 <br>
+
 <!--
 
 ![](https://media.discordapp.net/attachments/806343355264401478/838752579680600064/image.png)  
@@ -104,7 +105,9 @@ Fozzy | 0 | 0 | 1
 
 ~~if competing, post your distances in the ***#screenshot-submissions*** channel on the discord server~~ (no longer a requirement)
 {: style="text-align: center;"}
+
 -->
+
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966759534854154/desertX.png)
 
 <br> 
