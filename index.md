@@ -91,7 +91,7 @@ Fozzy | 0 | 0 | 1
 
 
 <br>
-
+<!--
 
 ![](https://media.discordapp.net/attachments/806343355264401478/838752579680600064/image.png)  
 {: style="text-align: center;"}
@@ -104,7 +104,7 @@ Fozzy | 0 | 0 | 1
 
 ~~if competing, post your distances in the ***#screenshot-submissions*** channel on the discord server~~ (no longer a requirement)
 {: style="text-align: center;"}
-
+-->
 ![](https://cdn.discordapp.com/attachments/831966505812885505/831966759534854154/desertX.png)
 
 <br> 
