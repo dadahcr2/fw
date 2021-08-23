@@ -1,2 +1,2 @@
-### Aug 20:  **`HillClimberMk2-Downhill Cup-The Ruins`**
+![](https://rentry.co/fwdaily/png)
 {: style="text-align: center; vertical-align: middle;"}
