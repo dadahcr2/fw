@@ -85,7 +85,7 @@ Boodles | 0 | 0 | 1
 | **Top 5 Highest Points** | Points  |  Week |   
 | -- | :--: | :--: |  
 | 1 ***Getzata*** | 824p | Week 20 |
-| 2 ***Getzata*** | 821p | Week 19 & 21 |
+| 2 ***Getzata*** | 821p | Week 19, 21 & 22 |
 | 3 ***Getzata*** | 818p | Week 17 |  
 | 3 ***Dada*** | 818p | Week 18 |  
 | 4 ***Getzata*** | 815p | Week 18 |  
