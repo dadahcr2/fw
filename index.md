@@ -11,7 +11,7 @@
 <br>
 ### **To compete in the friendly wars daily, make friends with the two moderators below**
 {: style="text-align: center;"}
-### Gutta: <https://playhcr.com/invite?id=0vyMBx>
+### Gutta: <https://playhcr.com/invite?id=JmjQdp>
 {: style="text-align: center;"}
 ### Folo: <https://playhcr.com/invite?id=A9ddPO>  
 {: style="text-align: center;"}
