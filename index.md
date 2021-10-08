@@ -48,11 +48,9 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 ***
 
 <br>  
-## Results - Week 22 and 23
+## Results - Week 24
 {: style="text-align: center;"}  
-![](https://cdn.discordapp.com/attachments/815005702245449728/885961330614472714/unknown.png)   
-{: style="text-align: center;"}
-![](https://cdn.discordapp.com/attachments/815005702245449728/885966808857837648/unknown.png)  
+![](https://cdn.discordapp.com/attachments/815005702245449728/891042584238112779/unknown.png)   
 {: style="text-align: center;"}
 
 <br>  
@@ -64,15 +62,15 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 Podium Placements  | 🏆  | 🥈  | 🥉   
 -- | :--: | :--: | :--:  
 Dada             |                8      |          7     |            1    
-Getzata             |                7     |            3   |           3    
+Getzata             |                7     |            3   |           4  
 x Spectre x | 4 | 2 | 1   
-Folo                |               1       |           2        |         5       
+Folo                |               1       |           3       |         5       
 Coldity       |                   0    |            3       |          2     
 Date | 0 | 3 | 2    
 Serendipity       |           2      |           0      |           1  
 Fozzy | 0 | 1 | 2   
 Linge             |                1     |            0     |           0  
-Alex             |                 0      |           1     |            2  
+Alex             |                 1      |           1     |            2  
 Jack           |                    0     |           1        |         0  
 Oxford            |              0    |            0       |          1  
 Pass Da B      |               0   |             0      |           1    
