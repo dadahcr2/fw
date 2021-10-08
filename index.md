@@ -68,9 +68,9 @@ Folo                |               1       |           3       |         5
 Coldity       |                   0    |            3       |          2     
 Date | 0 | 3 | 2    
 Serendipity       |           2      |           0      |           1  
+Alex             |                 1      |           1     |            2  
 Fozzy | 0 | 1 | 2   
 Linge             |                1     |            0     |           0  
-Alex             |                 1      |           1     |            2  
 Jack           |                    0     |           1        |         0  
 Oxford            |              0    |            0       |          1  
 Pass Da B      |               0   |             0      |           1    
