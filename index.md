@@ -50,7 +50,7 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 <br>  
 ## Results - Week 25
 {: style="text-align: center;"}  
-![](https://cdn.discordapp.com/attachments/817727524409966633/902659520919121940/IMG_0613.png)   
+![](https://cdn.discordapp.com/attachments/817727524409966633/902696259498950706/IMG_0615.png)   
 {: style="text-align: center;"}
 
 <br>  
