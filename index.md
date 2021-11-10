@@ -48,9 +48,9 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 ***
 
 <br>  
-## Results - Week 26
+## Results - Week 27
 {: style="text-align: center;"}  
-![](https://cdn.discordapp.com/attachments/815005702245449728/905103915249467412/IMG_0945.png)   
+![](https://cdn.discordapp.com/attachments/815005702245449728/907907068344815616/IMG_1298.png)   
 {: style="text-align: center;"}
 
 <br>  
@@ -61,15 +61,15 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 
 Podium Placements  | 🏆  | 🥈  | 🥉   
 -- | :--: | :--: | :--:  
+Getzata             |                10     |            3   |           4  
 Dada             |                8      |          7     |            1    
-Getzata             |                9     |            3   |           4  
 x Spectre x | 4 | 2 | 1   
-Folo                |               1       |           3       |         6       
+Folo                |               1       |           4       |         6       
 Date | 0 | 5 | 2 
 Coldity       |                   0    |            3       |          2        
 Serendipity       |           2      |           0      |           1  
 Alex             |                 1      |           1     |            2  
-Fozzy | 0 | 1 | 3   
+Fozzy | 0 | 1 | 4   
 Linge             |                1     |            0     |           0  
 Jack           |                    0     |           1        |         0  
 Oxford            |              0    |            0       |          1  
@@ -84,7 +84,7 @@ Boodles | 0 | 0 | 1
 | -- | :--: | :--: |  
 | 1 ***Getzata*** | 824p | Week 20, 26 |
 | 2 ***Getzata*** | 821p | Week 19, 21 & 22 |
-| 3 ***Getzata*** | 818p | Week 17 |  
+| 3 ***Getzata*** | 818p | Week 17, 27|  
 | 3 ***Dada*** | 818p | Week 18 |  
 | 4 ***Getzata*** | 815p | Week 18 |  
 | 5 ***Serendipity*** | 810p | Week 15 |  
