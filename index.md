@@ -48,10 +48,11 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 ***
 
 <br>  
-## Results - Week 27
-{: style="text-align: center;"}  
-![](https://cdn.discordapp.com/attachments/815005702245449728/907907068344815616/IMG_1298.png)   
-{: style="text-align: center;"}
+## Recent Results
+{: style="text-align: center;"} 
+{: style="text-align: center;"} 
+{: style="text-align: center;"} 
+{: style="text-align: center;"} 
 
 <br>  
 
@@ -59,35 +60,35 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 {: style="text-align: center;"}
 
 
-Podium Placements  | 🏆  | 🥈  | 🥉   
--- | :--: | :--: | :--:  
-Getzata             |                10     |            3   |           4  
-Dada             |                8      |          7     |            1    
-x Spectre x | 4 | 2 | 1   
-Folo                |               1       |           4       |         6       
-Date | 0 | 5 | 2 
-Coldity       |                   0    |            3       |          2        
-Serendipity       |           2      |           0      |           1  
-Alex             |                 1      |           1     |            2  
-Fozzy | 0 | 1 | 4   
-Linge             |                1     |            0     |           0  
-Jack           |                    0     |           1        |         0  
-Oxford            |              0    |            0       |          1  
-Pass Da B      |               0   |             0      |           1    
-Shaun | 0 | 0 | 1  
-Boodles | 0 | 0 | 1  
-
+***Podium Placements:***
+`————————————`  🏆  `——` 🥈 `——` 🥉```
+Getzata     10    4    6  
+Dada         8    7    1  
+Date         4    4    6  
+Folo         1    6    6  
+Spectre      4    2    1  
+Coldity      -    3    2  
+Serendipity  2    -    1  
+Fozzy        -    1    5  
+Alex         1    1    2  
+Linge        1    -    -  
+Jack         -    1    -  
+Oxford       -    -    1  
+Pass Da B    -    -    1  
+Shaun        -    -    1  
+Boodles      -    -    1  
+```
 
 <br> 
 
-| **Top 5 Highest Points** | Points  |  Week |   
-| -- | :--: | :--: |  
-| 1 ***Getzata*** | 824p | Week 20, 26 |
-| 2 ***Getzata*** | 821p | Week 19, 21 & 22 |
-| 3 ***Getzata*** | 818p | Week 17, 27|  
-| 3 ***Dada*** | 818p | Week 18 |  
-| 4 ***Getzata*** | 815p | Week 18 |  
-| 5 ***Serendipity*** | 810p | Week 15 |  
+***Top 5 Highest Points***
+🏆 ***Getzata*** - 824p - Week 20, 26
+🏆 ***Date*** - 824p - Week 30
+🥈 ***Getzata*** - 821p - Week 19, 21, 22
+🥉 ***Getzata*** - 818p - Week 17, 27
+🥉 ***Dada*** - 818p - Week 18
+🏅 ***Getzata*** - 815p - Week 18
+🎖️ ***Serendipity*** - 810p - Week 15
 
 
 <br>
