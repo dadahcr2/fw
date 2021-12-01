@@ -85,14 +85,14 @@ Boodles      -    -    1
 
 <br> 
 
-***Top 5 Highest Points***
-🏆 ***Getzata*** - 824p - Week 20, 26
-🏆 ***Date*** - 824p - Week 30
-🥈 ***Getzata*** - 821p - Week 19, 21, 22
-🥉 ***Getzata*** - 818p - Week 17, 27
-🥉 ***Dada*** - 818p - Week 18
-🏅 ***Getzata*** - 815p - Week 18
-🎖️ ***Serendipity*** - 810p - Week 15
+***Top 5 Highest Points***  
+🏆 ***Getzata*** - 824p - Week 20, 26  
+🏆 ***Date*** - 824p - Week 30  
+🥈 ***Getzata*** - 821p - Week 19, 21, 22  
+🥉 ***Getzata*** - 818p - Week 17, 27  
+🥉 ***Dada*** - 818p - Week 18  
+🏅 ***Getzata*** - 815p - Week 18  
+🎖️ ***Serendipity*** - 810p - Week 15  
 
 
 <br>
