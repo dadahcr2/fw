@@ -50,11 +50,7 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 <br>  
 ## Recent Results
 {: style="text-align: center;"} 
-![](https://cdn.discordapp.com/attachments/815005702245449728/915598790273171456/IMG_2331.png)  
-{: style="text-align: center;"} 
-![](https://cdn.discordapp.com/attachments/815005702245449728/914470276199235584/IMG_2071.png)  
-{: style="text-align: center;"} 
-![](https://cdn.discordapp.com/attachments/815005702245449728/910577490806845470/IMG_1678.png)  
+![](https://cdn.discordapp.com/attachments/815005702245449728/919404064633159740/IMG_2613.png)  
 {: style="text-align: center;"} 
 
 <br>  
@@ -64,16 +60,16 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 
 
 ***Podium Placements:***  
-`————————————`  🏆 `——`🥈`——` 🥉  
+`————————————`  🏆  `——` 🥈 `——` 🥉  
 ```
 Getzata     10    4    6  
 Dada         8    7    1  
-Date         4    4    6  
-Folo         1    6    6  
+Date         5    4    6  
+Folo         1    6    7  
 Spectre      4    2    1  
+Fozzy        -    2    5  
 Coldity      -    3    2  
-Serendipity  2    -    1  
-Fozzy        -    1    5  
+Serendipity  2    -    1   
 Alex         1    1    2  
 Linge        1    -    -  
 Jack         -    1    -  
@@ -82,19 +78,15 @@ Pass Da B    -    -    1
 Shaun        -    -    1  
 Boodles      -    -    1  
 ```
-
-<br> 
-
 ***Top 5 Highest Points***  
 🏆 ***Getzata*** - 824p - Week 20, 26  
 🏆 ***Date*** - 824p - Week 30  
 🥈 ***Getzata*** - 821p - Week 19, 21, 22  
 🥉 ***Getzata*** - 818p - Week 17, 27  
-🥉 ***Dada*** - 818p - Week 18  
+🥉 ***Dada*** - 818p - Week 18    
+🥉 ***Data*** - 818p - Week 31  
 🏅 ***Getzata*** - 815p - Week 18  
 🎖️ ***Serendipity*** - 810p - Week 15  
-
-
 <br>
 
 <!--
