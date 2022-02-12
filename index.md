@@ -58,19 +58,20 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 ## **Hall of Fame**    
 {: style="text-align: center;"}
 
-
-***Podium Placements:***  
-`————————————`  🏆  `——` 🥈 `——` 🥉  
 ```
-Getzata     10    4    6  
+***Podium Placements:***
+`————————————`  🏆  `——` 🥈 `——` 🥉
+```
+Getzata     13    6    7  
 Dada         8    7    1  
-Date         5    4    6  
-Folo         1    6    7  
+Date         6    4    8  
+Folo         2    9    9  
 Spectre      4    2    1  
-Fozzy        -    2    5  
+Fozzy        2    3    7  
 Coldity      -    3    2  
 Serendipity  2    -    1   
 Alex         1    1    2  
+Nightmare    1    -    -  
 Linge        1    -    -  
 Jack         -    1    -  
 Oxford       -    -    1  
