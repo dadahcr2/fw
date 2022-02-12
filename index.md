@@ -70,7 +70,6 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 ## **Hall of Fame**    
 {: style="text-align: center;"}
 
-```
 ***Podium Placements:***
 `————————————`  🏆  `——` 🥈 `——` 🥉
 ```
@@ -91,6 +90,7 @@ Pass Da B    -    -    1
 Shaun        -    -    1  
 Boodles      -    -    1  
 ```
+
 ***Top 5 Highest Points***  
 🏆 ***Getzata*** - 824p - Week 20, 26  
 🏆 ***Date*** - 824p - Week 30  
