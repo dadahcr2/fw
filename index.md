@@ -72,7 +72,7 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 
 ***Podium Placements:***
 
-`————————————`  🏆  `——` 🥈 `——` 🥉
+`————————————`  🏆 `——`🥈`——`🥉
 ```
 Getzata     13    6    7  
 Dada         8    7    1  
