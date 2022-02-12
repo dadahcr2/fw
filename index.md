@@ -50,7 +50,19 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 <br>  
 ## Recent Results
 {: style="text-align: center;"} 
-![](https://cdn.discordapp.com/attachments/815005702245449728/919404064633159740/IMG_2613.png)  
+![](https://cdn.discordapp.com/attachments/815005702245449728/924006308401778748/IMG_2912.png)  
+{: style="text-align: center;"} 
+![](https://cdn.discordapp.com/attachments/815005702245449728/929880978606940190/IMG_3406.png)  
+{: style="text-align: center;"} 
+![](https://cdn.discordapp.com/attachments/815005702245449728/932841984828248094/IMG_3609.png)  
+{: style="text-align: center;"} 
+![](https://cdn.discordapp.com/attachments/815005702245449728/941977781280055317/IMG_4399.png)  
+{: style="text-align: center;"} 
+![](https://cdn.discordapp.com/attachments/815005702245449728/941977803224649798/IMG_4398.png)  
+{: style="text-align: center;"} 
+![](https://cdn.discordapp.com/attachments/815005702245449728/941977812150128681/IMG_4397.png)  
+{: style="text-align: center;"} 
+![](https://cdn.discordapp.com/attachments/815005702245449728/941977816172470292/IMG_4396.png)  
 {: style="text-align: center;"} 
 
 <br>  
