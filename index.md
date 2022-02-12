@@ -71,6 +71,7 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 {: style="text-align: center;"}
 
 ***Podium Placements:***
+
 `————————————`  🏆  `——` 🥈 `——` 🥉
 ```
 Getzata     13    6    7  
