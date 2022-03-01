@@ -64,7 +64,7 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 
 `————————————`🏆`——`🥈`——`🥉
 ```
-Getzata     14    )    7  
+Getzata     14    7    7  
 Dada         8    7    1  
 Date         6    4    8  
 Folo         2   10   10  
