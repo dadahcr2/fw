@@ -74,12 +74,12 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 
 `————————————`🏆`——`🥈`——`🥉
 ```
-Getzata     13    6    7  
+Getzata     14    )    7  
 Dada         8    7    1  
 Date         6    4    8  
-Folo         2    9    9  
+Folo         2   10   10  
 Spectre      4    2    1  
-Fozzy        2    3    7  
+Fozzy        2    3    8  
 Coldity      -    3    2  
 Serendipity  2    -    1   
 Alex         1    1    2  
