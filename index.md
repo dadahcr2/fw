@@ -91,7 +91,6 @@ Boodles      -    -    1
 🥉 ***Dada*** - 818p - Week 18    
 🥉 ***Date*** - 818p - Week 31  
 🏅 ***Getzata*** - 815p - Week 18  
-🎖️ ***Serendipity*** - 810p - Week 15  
 <br>
 
 <!--
