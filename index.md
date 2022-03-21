@@ -50,9 +50,7 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 <br>  
 ## Recent Results
 {: style="text-align: center;"} 
-![](https://cdn.discordapp.com/attachments/815005702245449728/948070062160510976/IMG_4679.png)  
-{: style="text-align: center;"} 
-![](https://cdn.discordapp.com/attachments/815005702245449728/948070085170462771/IMG_4680.png)  
+![](https://media.discordapp.net/attachments/855146978140094466/955263229091786772/IMG_5060.png)  
 {: style="text-align: center;"} 
 
 <br>  
@@ -64,12 +62,12 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 
 `————————————`🏆`——`🥈`——`🥉
 ```
-Getzata     14    7    7  
+Getzata     14    7    8  
 Dada         8    7    1  
 Date         6    4    8  
-Folo         2   10   10  
+Folo         2   11   10  
+Fozzy        3    3    8  
 Spectre      4    2    1  
-Fozzy        2    3    8  
 Coldity      -    3    2  
 Serendipity  2    -    1   
 Alex         1    1    2  
