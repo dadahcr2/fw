@@ -50,9 +50,10 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 <br>  
 ## Recent Results
 {: style="text-align: center;"} 
-![](https://media.discordapp.net/attachments/855146978140094466/955263229091786772/IMG_5060.png)  
+![](https://media.discordapp.net/attachments/815005702245449728/964746843357593600/IMG_5358.png)  
 {: style="text-align: center;"} 
-
+![](https://media.discordapp.net/attachments/815005702245449728/964746880674332682/IMG_5361.png)  
+{: style="text-align: center;"} 
 <br>  
 
 ## **Hall of Fame**    
@@ -60,24 +61,27 @@ Compete daily in the time-trials. Points awarded based on position and added up 
 
 ***Podium Placements:***
 
-`————————————`🏆`——`🥈`——`🥉
+
+***Podium Placements:***  
+`————————————`  🏆  `——` 🥈 `——` 🥉  
 ```
-Getzata     14    7    8  
+Getzata     15    7    8  
 Dada         8    7    1  
 Date         6    4    8  
-Folo         2   11   10  
-Fozzy        3    3    8  
+Folo         2   11   11  
+Fozzy        4    4    8
 Spectre      4    2    1  
+Nightmare    2    1    -  
 Coldity      -    3    2  
 Serendipity  2    -    1   
 Alex         1    1    2  
-Nightmare    1    -    -  
 Linge        1    -    -  
 Jack         -    1    -  
 Oxford       -    -    1  
 Pass Da B    -    -    1  
 Shaun        -    -    1  
 Boodles      -    -    1  
+GetGoing     -    -    1
 ```
 
 ***Top 5 Highest Points***  
