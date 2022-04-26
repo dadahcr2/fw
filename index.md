@@ -7,7 +7,7 @@
 "_Welcome to one of tne most, if not tne most fun competition in HCR2!  These competitions don't revolve around the daily/weekly tabs or challenges, but rather they run on **time trials**. This means that you can run it besides other competitions and you save all your precious gems_"    
 {: style="text-align: center;"}  
 
-![](https://rentry.co/fwdaily/png)
+![](https://rentry.org/fwdaily/png)
 <br>
 ### **To compete in the friendly wars daily, make friends with the two moderators below**
 {: style="text-align: center;"}
