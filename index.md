@@ -140,7 +140,7 @@ If you are not on the list and should be, let me know...
 
 ***
 
-<mailto:dadahcr2@gmail.com> ~ dada#1710 ~ <http://hcr2.info>  
+<mailto:dadahcr2@gmail.com> ~ dada#1710 ~ <http://hcr2info.com>  
 {: style="text-align: center;"}
 
 ![](https://media.discordapp.net/attachments/806343355264401478/841864986590576660/2A8C00CC-70A7-4510-8847-09C3360CA512.png?width=100&height=100)  
